@@ -1,0 +1,5 @@
+function srednia (a,b)
+(
+
+
+)
